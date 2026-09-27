@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "ano": 1943,
+    "disponivel": true,
+    "leitor": "",
+    "data_emprestimo": ""
+  },
+  {
+    "titulo": "Os 3 Desejos de Eugênio",
+    "autor": "Vitor Martins",
+    "ano": 2025,
+    "disponivel": true,
+    "leitor": "",
+    "data_emprestimo": ""
+  }
+]
