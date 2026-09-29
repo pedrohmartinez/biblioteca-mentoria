@@ -24,22 +24,22 @@ O arquivo `biblioteca.json` será criado automaticamente quando você sair pelo 
 
 ## Mapa dos conceitos usados
 
-| Conceito | Onde observar no código |
-|---|---|
-| Variáveis e tipos | parâmetros, `ano`, `total`, `disponivel` e textos das mensagens |
-| Entrada e saída | `input()` e `print()` em todo o programa |
-| Operadores | cálculos, comparações e condições em `ler_ano`, `estatisticas` e menus |
-| Condicionais | regras de empréstimo, devolução e escolha do menu |
-| `while`, `for` e `range` | validação de entradas, menu e listagens |
-| Strings | `.strip()`, `.lower()` e f-strings |
-| Listas | `self.livros`, resultados de busca e livros disponíveis |
-| Tuplas | `OPCOES_MENU` e o retorno de `estatisticas()` |
-| Dicionários | `acoes` e os dados que são gravados no JSON |
-| Funções | cada ação do menu possui uma função própria |
-| Tratamento de erros | `try/except ValueError` nas leituras numéricas |
-| Módulos | `json`, `datetime`, `pathlib` e `random` |
-| Arquivos | `with open()` nos métodos `salvar` e `carregar` |
-| POO | classes `Livro` e `Biblioteca`, atributos, métodos e `__init__` |
+|          Conceito           |                       Onde observar no código                          |
+|-----------------------------|------------------------------------------------------------------------|
+| Variáveis e tipos           | parâmetros, `ano`, `total`, `disponivel` e textos das mensagens        |
+| Entrada e saída             | `input()` e `print()` em todo o programa                               |
+| Operadores                  | cálculos, comparações e condições em `ler_ano`, `estatisticas` e menus |
+| Condicionais                | regras de empréstimo, devolução e escolha do menu                      |
+| `while`, `for` e `range`    | validação de entradas, menu e listagens                                |
+| Strings                     | `.strip()`, `.lower()` e f-strings                                     |
+| Listas                      | `self.livros`, resultados de busca e livros disponíveis                |
+| Tuplas                      | `OPCOES_MENU` e o retorno de `estatisticas()`                          |
+| Dicionários                 | `acoes` e os dados que são gravados no JSON                            |
+| Funções                     | cada ação do menu possui uma função própria                            |
+| Tratamento de erros         | `try/except ValueError` nas leituras numéricas                         |
+| Módulos                     | `json`, `datetime`, `pathlib` e `random`                               |
+| Arquivos                    | `with open()` nos métodos `salvar` e `carregar`                        |
+| POO                         | classes `Livro` e `Biblioteca`, atributos, métodos e `__init__`        |
 
 ## Roteiro de estudo
 
